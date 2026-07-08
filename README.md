@@ -16,25 +16,26 @@
   
   ## Outras Tecnologias
 
-  **Frontend & Mobile:** JavaScript, Vue.js, Tailwind CSS, React Native, Expo, Ionic  
-  **Backend:** Express, Python, Bun, Deno, C#, .NET, Java  
-  **Database:** PostgreSQL, MySQL, MongoDB  
-  **DevOps & Tools:** Git, GitHub Actions, Docker, Linux, Postman, Insomnia
+  **Frontend & Mobile:** JavaScript, Tailwind CSS, React Native, Expo, Tauri, Electron.
+  **Backend:** Express, Axios, Hono, Python, Bun, Deno, C#, .NET, Java
+  **Database:** PostgreSQL, MySQL, MongoDB, SQLite
+  **DevOps & Tools:** Git, GitHub Actions, Docker
 
 <br>
  
-<div> 
+<div>
+  <a href="https://www.linkedin.com/in/imagensdogabriel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.youtube.com/@imagensdogabriel" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/imagensdogabriel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:paragabrielsantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/imagensdogabriel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
-  <hr>
+<hr>
 
-  <div align="center">
-  <img src="https://raw.githubusercontent.com/CodesOfGabriel/CodesOfGabriel/output/github-contribution-grid-snake.svg" alt="Snake animation">
-  </div>
-
-
-  
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodesOfGabriel/CodesOfGabriel/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodesOfGabriel/CodesOfGabriel/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CodesOfGabriel/CodesOfGabriel/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
