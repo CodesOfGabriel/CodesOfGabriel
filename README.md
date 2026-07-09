@@ -1,6 +1,5 @@
 ## Gabriel Santos - Full Stack Developer | Researcher
 
-### Contatos
 <br>
  
 <div>
@@ -13,7 +12,16 @@
 <hr>
 
 ## Experiência
-<div style="display: inline_block"><br>
+
+  **Frontend & Mobile:** JavaScript, Tailwind CSS, React Native, Expo, Tauri, Electron.
+
+  **Backend:** Express, Axios, Hono, Python, Bun, Deno, C#, .NET, Java
+
+  **Database:** PostgreSQL, MySQL, MongoDB, SQLite
+
+  **DevOps & Tools:** Git, GitHub Actions, Docker
+
+<div style="display: inline_block">
   <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gabriel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Gabriel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -23,16 +31,6 @@
   <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gabriel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-  
-  ## Outras Tecnologias
-
-  **Frontend & Mobile:** JavaScript, Tailwind CSS, React Native, Expo, Tauri, Electron.
-
-  **Backend:** Express, Axios, Hono, Python, Bun, Deno, C#, .NET, Java
-
-  **Database:** PostgreSQL, MySQL, MongoDB, SQLite
-
-  **DevOps & Tools:** Git, GitHub Actions, Docker
 
 <hr>
 
