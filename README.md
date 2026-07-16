@@ -13,9 +13,9 @@
 
 ## Experiência
 
-  **Frontend & Mobile:** JavaScript, Tailwind CSS, React Native, Expo, Tauri, Electron.
+  **Frontend & Mobile:** Typescript, Tailwind CSS, React Native, Expo, Tauri, Electron.
 
-  **Backend:** Express, Axios, Hono, Python, Bun, Deno, C#, .NET, Java
+  **Backend:** Express, Deno, Python, Bun, Rust, C#, Java
 
   **Database:** PostgreSQL, MySQL, MongoDB, SQLite
 
