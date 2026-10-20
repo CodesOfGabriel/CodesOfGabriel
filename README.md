@@ -1,4 +1,4 @@
-## Gabriel Santos - Full Stack Developer | Researcher
+## Gabriel Santos - Software Engineer | Researcher
 
 <br>
  
